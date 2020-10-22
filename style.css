@@ -1,0 +1,15 @@
+h1{
+    margin-left: 100px;
+    padding-left: 200px;
+    border: 2px solid;
+   color: #0000ff;
+}
+.images{
+   display:flex;
+   flex-direction: row;
+   flex-wrap: wrap ;
+   justify-content: space-evenly;
+}
+*{
+    background-color: #dda0dd;
+}
